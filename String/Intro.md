@@ -64,15 +64,25 @@ Operator	Checks
 equals()	Content (actual value)
 
 
+
 # Commonly Used String Methods
-Method	      Purpose
-length()	  Returns length of string
-charAt()	  Returns character at index
-substring()	  Extracts part of string
-toUpperCase() Converts to uppercase
-toLowerCase() Converts to lowercase
-equals()	  Compares content
-compareTo()	  Lexicographical comparison
+Method	        Purpose
+--------------------------------------
+length()	    |  Returns length of string
+-----------------------------------------
+charAt()	    |  Returns character at index
+-----------------------------------------
+substring()	  |  Extracts part of string
+-----------------------------------------
+toUpperCase() |  Converts to uppercase
+-----------------------------------------
+toLowerCase() |  Converts to lowercase
+-----------------------------------------
+equals()	    |  Compares content
+-----------------------------------------
+compareTo()	  |  Lexicographical comparison
+-----------------------------------------
+
 
 
 # When to Use String?
