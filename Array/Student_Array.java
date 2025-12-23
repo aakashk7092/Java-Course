@@ -24,8 +24,8 @@ public class Student_Array {
         students[1] = s2;
         students[2] = s3;
 
-        for(int i = 0 ; i < students.length;i++){
-            System.out.println( students[i].roll_no +"  :  "+students[i].name +"  :  "+ students[i].marks);
+        for(Student stu : students){
+            System.out.println( stu.roll_no +"  :  "+stu.name +"  :  "+ stu.marks);
         }
 
         
