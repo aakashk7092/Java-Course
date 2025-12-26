@@ -20,6 +20,5 @@ public class intenseVariable {
         obj2.name = "NoteBook Pro";
         obj1.show();
         obj2.show();
-
     }
 }
